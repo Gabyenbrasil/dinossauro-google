@@ -21,7 +21,7 @@
 .game-over{
     text-align: center;
     color: indigo;
-    margin-top: 50px;
+    margin-top: 50px 0;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
